@@ -1,0 +1,162 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  max-width: fit-content;
+  background-image: url(https://c.pxhere.com/photos/12/b7/star_galaxy_atmosphere_astrology_astronomy-21087.jpg!d);
+}
+
+nav ul {
+  list-style: none;
+}
+
+.navbar {
+  background-color: rgb(27, 27, 39);
+  height: 50px;
+  margin: 5px;
+  padding: 0;
+}
+
+nav {
+  float: right;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+nav a {
+  color: white;
+  font-size: 20px;
+}
+
+li {
+  display: inline;
+  margin: 15px;
+}
+
+nav a:hover {
+  color: gold;
+  text-shadow: 0 0 7px rgb(255, 242, 170);
+}
+
+h1 {
+  margin-bottom: 30px;
+  margin-top: 150px;
+  text-decoration: underline rgb(255, 255, 255);
+  color: white;
+  text-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+section {
+  margin-bottom: 100px;
+}
+
+h1 {
+  text-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+table {
+  padding-left: 100px;
+  padding-right: 100px;
+
+  margin: 10px auto;
+}
+
+p {
+  margin-top: 0;
+  font-size: 19px;
+  color: white;
+}
+
+.zwei {
+  margin-bottom: 150px;
+}
+
+th {
+  display: flex;
+}
+
+img {
+  margin: 10px;
+}
+
+#widder {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#stier {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#zwillinge {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#krebs {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#löwe {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#jungfrau {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#waage {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#skorpion {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#schütze {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#steinbock {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#wassermann {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
+
+#fische {
+  border: 3px solid white;
+  margin-top: 10px;
+  border-style: double;
+  box-shadow: 0 0 20px rgb(149, 248, 255);
+}
